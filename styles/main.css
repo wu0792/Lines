@@ -1,0 +1,16 @@
+body {
+    background-color: #111;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.spot {
+    background-color: #999;
+    width: 20px;
+    height: 20px;
+    transition: .2s;
+}
